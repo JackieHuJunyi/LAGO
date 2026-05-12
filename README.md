@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="https://arxiv.org/abs/" style="text-decoration:none !important;">
-    <img src="https://img.shields.io/badge/arXiv-1234.56789-b31b1b" alt="arXiv Badge">
+  <a href="https://arxiv.org/abs/2605.08156" style="text-decoration:none !important;">
+    <img src="https://img.shields.io/badge/arXiv-2605.08156-b31b1b" alt="arXiv Badge">
   </a>
   <a href="https://opensource.org/licenses/MIT" style="text-decoration:none !important;">
     <img src="https://img.shields.io/badge/License-MIT-yellow" alt="MIT License Badge">
@@ -32,10 +32,14 @@ The full training and evaluation code will be **open-sourced after the paper is 
 ## Citation
 If this repository is helpful in your research, please consider citing our paper.
 ```bibtex
-@article{lago2026,
-  title  = {LAGO: Language-Guided Adaptive Object-Region Focus for Zero-Shot Visual-Text Alignment},
-  author = {LAGO Authors},
-  year   = {2026}
+@misc{hu2026lago,
+  title         = {{LAGO}: Language-Guided Adaptive Object-Region Focus for Zero-Shot Visual-Text Alignment},
+  author        = {Junyi Hu and Qiji Zhou and Lei Zhang and Yue Zhang},
+  year          = {2026},
+  eprint        = {2605.08156},
+  archivePrefix = {arXiv},
+  primaryClass  = {cs.CV},
+  url           = {https://arxiv.org/abs/2605.08156}
 }
 ```
 
