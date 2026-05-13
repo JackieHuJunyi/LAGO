@@ -8,6 +8,9 @@
   <a href="https://arxiv.org/abs/2605.08156" style="text-decoration:none !important;">
     <img src="https://img.shields.io/badge/arXiv-2605.08156-b31b1b" alt="arXiv Badge">
   </a>
+  <a href="https://gist.science/paper/2605.08156" style="text-decoration:none !important;">
+    <img src="https://img.shields.io/badge/Gist_Science-Paper-4F46E5" alt="Gist Science paper summary">
+  </a>
   <a href="https://opensource.org/licenses/MIT" style="text-decoration:none !important;">
     <img src="https://img.shields.io/badge/License-MIT-yellow" alt="MIT License Badge">
   </a>
