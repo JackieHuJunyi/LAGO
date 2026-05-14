@@ -11,6 +11,9 @@
   <a href="https://gist.science/paper/2605.08156" style="text-decoration:none !important;">
     <img src="https://img.shields.io/badge/Gist_Science-Paper-4F46E5" alt="Gist Science paper summary">
   </a>
+  <a href="https://chatpaper.com/paper/278917" style="text-decoration:none !important;">
+    <img src="https://img.shields.io/badge/Chat_Paper-Summary-2563EB" alt="ChatPaper AI summary">
+  </a>
   <a href="https://opensource.org/licenses/MIT" style="text-decoration:none !important;">
     <img src="https://img.shields.io/badge/License-MIT-yellow" alt="MIT License Badge">
   </a>
